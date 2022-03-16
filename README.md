@@ -8,7 +8,7 @@
   - 📚 [Book Aligner](http://ryanfb.github.io/book-aligner/) - Automatic alignment of books between HathiTrust, Internet Archive, Google Books, etc.
 - 🎧 Creator of [PodQueue](https://podqueue.fm), "Listen Later" for Audio on the Web
 - ✍️ [Blog](https://ryanfb.github.io/etc/)
-- 💲 Appreciate my work? Check out my [Tip Jar](https://ryanfb.github.io/etc/tip-jar) for ways you can support it.
+- 💵 Appreciate my work? Check out my [Tip Jar](https://ryanfb.github.io/etc/tip-jar) for ways you can support it.
 
 <!--
 **ryanfb/ryanfb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
