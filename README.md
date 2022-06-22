@@ -5,7 +5,7 @@
   - 🏺 [Index of Ancient Greek Lexica](https://dcthree.github.io/ancient-greek-lexica/)
   - 📗 [Loebolus](https://ryanfb.github.io/loebolus/) - Making the public domain Loebs more easily downloadable
   - 📕 [Latin OCR](http://latin-ocr.github.io/) - Latin OCR training data, tools, and results
-  - 📚 [Book Aligner](http://ryanfb.github.io/book-aligner/) - Automatic alignment of books between HathiTrust, Internet Archive, Google Books, etc.
+  - 📚 [Book Aligner](http://ryanfb.github.io/book-aligner/) - Automatic alignment of books between HathiTrust, Internet Archive, & Google Books
 - 🎧 Creator of [PodQueue](https://podqueue.fm), "Listen Later" for Audio on the Web
 - ✍️ [Blog](https://ryanfb.github.io/etc/)
 - ☕️ Appreciate my work? Check out my [Tip Jar](https://ryanfb.github.io/etc/tip-jar) for ways you can support it.
