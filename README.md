@@ -3,12 +3,12 @@
 - 🧑‍💻 Digital Humanities Developer, [Duke Collaboratory for Classics Computing](https://dcthree.github.io)
   - 📜 [papyri.info](https://papyri.info)
   - 🏺 [Index of Ancient Greek Lexica](https://dcthree.github.io/ancient-greek-lexica/)
-  - 📗 [Loebolus](https://ryanfb.github.io/loebolus/) - Making the public domain Loebs more easily downloadable
+  - 📗 [Loebolus](https://ryanfb.xyz/loebolus/) - Making the public domain Loebs more easily downloadable
   - 📕 [Latin OCR](http://latin-ocr.github.io/) - Latin OCR training data, tools, and results
-  - 📚 [Book Aligner](http://ryanfb.github.io/book-aligner/) - Automatic alignment of books between HathiTrust, Internet Archive, & Google Books
+  - 📚 [Book Aligner](http://ryanfb.xyz/book-aligner/) - Automatic alignment of books between HathiTrust, Internet Archive, & Google Books
 - 🎧 Creator of [PodQueue](https://podqueue.fm), "Listen Later" for Audio on the Web
-- ✍️ [Blog](https://ryanfb.github.io/etc/)
-- ☕️ Appreciate my work? Check out my [Tip Jar](https://ryanfb.github.io/etc/tip-jar) for ways you can support it.
+- ✍️ [Blog](https://ryanfb.xyz/etc/)
+- ☕️ Appreciate my work? Check out my [Tip Jar](https://ryanfb.xyz/etc/tip-jar) for ways you can support it.
 
 <!--
 **ryanfb/ryanfb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
