@@ -1,5 +1,7 @@
 # Ryan Baumann
 
+⚠️ **NOTE:** I am currently exploring options for moving all of my repositories and "GitHub Pages" pages off of GitHub, ideally to a self-hosted solution. See [this blog post](https://ryanfb.xyz/etc/2026/02/23/i'm_getting_the_hell_out.html) for why.
+
 - 🧑‍💻 Digital Humanities Developer, [Duke Collaboratory for Classics Computing](https://dcthree.github.io)
   - 📜 [papyri.info](https://papyri.info)
   - 🏺 [Index of Ancient Greek Lexica](https://dcthree.github.io/ancient-greek-lexica/)
